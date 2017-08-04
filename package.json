@@ -1,6 +1,6 @@
 {
   "name": "query-pruner",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Using a query as a guideline of what is useful information, prune unnecessary infomation off of an object.",
   "main": "query-pruner.js",
   "scripts": {
