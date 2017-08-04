@@ -1,0 +1,22 @@
+{
+  "name": "query-pruner",
+  "version": "1.0.0",
+  "description": "Using a query as a guideline of what is useful information, prune unnecessary infomation off of an object.",
+  "main": "query-pruner.js",
+  "scripts": {
+    "test": "test1.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doubledh/Query-Pruner.git"
+  },
+  "keywords": [
+    "prune"
+  ],
+  "author": "Henry Hu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/doubledh/Query-Pruner/issues"
+  },
+  "homepage": "https://github.com/doubledh/Query-Pruner#readme"
+}
